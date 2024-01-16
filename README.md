@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... social media related data. 
 - 📫 How to reach me ...kanneh.madoyan@gmail.com.
 - 😄 Pronouns: ... she/ hers.
-- ⚡ Fun fact: ... I drove to Canada by myself on a singular cup of coffee.
+- ⚡ Fun fact: ... I drove to Toronto by myself on a singular cup of coffee.
 
 <!---
 Mkanneh19/Mkanneh19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
